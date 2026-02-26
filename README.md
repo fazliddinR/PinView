@@ -15,7 +15,7 @@ allprojects {
 }
 
 dependencies {
-    implementation 'com.github.neophron88:PinView:2.0'
+    implementation 'com.github.fazliddinR:PinView:3.2'
 }
 ```
 
