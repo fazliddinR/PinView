@@ -51,7 +51,7 @@ dependencies {
 publishing {
     publications {
         register<MavenPublication>("release") {
-            groupId = "com.github.neophron88"
+            groupId = "com.github.fazliddinR"
             artifactId = "PinView"
             version = "1.0"
 
